@@ -1,0 +1,8 @@
+This is just how I maintain my sanity feel free to peak!
+Also full disclosure, I am learning, for the love of it, how to emulate...So I will be relying heavily on OLC, reddit, rockwell's data sheet for help.
+- make bus and R6502 headers and source.
+- make regs and status reg codes and pc stkptr etc.
+- Look at reference figure out opcodes and look up addressing.
+- Make stubs for now to tackle addressing and ops in 6502.h 
+- indirect vs direct addressing
+- Need to start with the clock and implementing the instructions and addressing modes.
